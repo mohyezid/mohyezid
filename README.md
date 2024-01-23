@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 I'm a passionate developer currently focusing on Flutter, (M,P)ERN (MongoDB,Mysql,Postgres, Express, React, Node.js), and Python development.
-💎<br>I'm enthusiastic about creating web and mobile applications, as well as working on AI development projects. From setting up server environments to UI development, I enjoy the full stack of development.
-🧑‍💻<br>I'm actively seeking collaboration opportunities in web, mobile, and AI development. Whether it's building innovative applications or exploring cutting-edge technologies, I'm eager to contribute my skills and learn from others.<br><br>Currently, I'm also diving into the exciting field of Deep Learning, expanding my knowledge and exploring its potential applications.
+<br> 💎 I'm enthusiastic about creating web and mobile applications, as well as working on AI development projects. From setting up server environments to UI development, I enjoy the full stack of development.
+<br> 🧑‍💻 I'm actively seeking collaboration opportunities in web, mobile, and AI development. Whether it's building innovative applications or exploring cutting-edge technologies, I'm eager to contribute my skills and learn from others.<br><br>Currently, I'm also diving into the exciting field of Deep Learning, expanding my knowledge and exploring its potential applications.
 
 
 ## 🌐 Socials:
